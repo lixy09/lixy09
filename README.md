@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm An 👋</h1>
 <h3 align="center">A student in ICT</h3>
 
-- 🔭 I’m currently working on **game development**
+- 🔭 I’m currently working on **web development**
 
-- 🌱 I’m currently learning **Typescript and Python**
+- 🌱 I’m currently learning **php and Laravel**
 
 - 📫 How to reach me **li0047@hz.nl**
 
